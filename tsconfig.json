@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "lib": ["es2017"],
+        "moduleResolution": "node",
+        "target": "es6",
+        "outDir": "dist",
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitAny": true
+    }
+}

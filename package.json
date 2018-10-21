@@ -1,0 +1,19 @@
+{
+  "name": "insomnia-plugin-defaults",
+  "version": "1.0.0",
+  "description": "An Insomnia plugin for defining default values for certain fields",
+  "main": "index.js",
+  "files": ["dist"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwselleck/insomnia-plugin-defaults.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.0",
+    "typescript": "^3.1.3"
+  },
+  "insomnia": {
+    "name": "defaults"
+  }
+}
