@@ -9,6 +9,7 @@ clean() {
 
 build() {
     tsc
+    cp package.json dist
 }
 
 deploy_local() {

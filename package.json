@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-defaults",
+  "name": "@wwselleck/insomnia-plugin-defaults",
   "version": "1.0.0",
   "description": "An Insomnia plugin for defining default values for certain fields",
   "main": "index.js",
