@@ -2,7 +2,7 @@
 
 ## Installation
 1. Open your preferences in Insomnia
-2. Type `@wwselleck/insomnia-plugin-defaults`
+2. Type `insomnia-plugin-defaults`
 3. Click 'Install Plugin'
 
 ## Usage
